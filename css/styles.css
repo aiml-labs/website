@@ -123,8 +123,17 @@ p {
   background-color: #1687a7;
 }
 
-.testimonial-text {
+#cta {
+  background-color: #d3e0ea;
+}
+
+.testimonial-header {
   font-size: 3rem;
+  line-height: 1.5;
+}
+
+.testimonial-text {
+  font-size: 2rem;
   line-height: 1.5;
 }
 
